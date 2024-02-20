@@ -1,4 +1,4 @@
-#Leonardo Daniel Ramírez Medina 21310138
+#Leonardo Daniel Ramírez Medina - 21310138
 #6E - IA
 #19/02/24
 
